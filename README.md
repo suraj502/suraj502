@@ -13,13 +13,33 @@
     <img alt="Repos" src="https://img.shields.io/badge/Repositories-Public-6C47FF?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://codolio.com/profile/suraj9258">
-    <img alt="Codolio" src="https://img.shields.io/badge/200%2B%20DSA%20Problems-Codolio-6C47FF?style=flat-square" />
+    <img alt="Codolio" src="https://img.shields.io/badge/200%2B%20DSA-Codolio%20%E2%86%97-6C47FF?style=flat-square" />
   </a>
   <img alt="Location" src="https://img.shields.io/badge/Meerut%2C%20India-UTC%2B5%3A30-a78bfa?style=flat-square" />
 </p>
 
 <p align="center">
   <b>B.Tech IT @ MIET Meerut · Expected 2027 · IIT Roorkee ML & Web Dev Training</b>
+</p>
+
+---
+
+## Contribution Playground
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" width="98%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suraj502/suraj502/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suraj502/suraj502/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/suraj502/suraj502/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=suraj502&hide_border=true&bg_color=ffffff&color=64748b&line=a78bfa&point=6C47FF&area=true&area_color=f3e8ff&title_color=6C47FF" alt="Activity graph" />
 </p>
 
 ---
@@ -38,7 +58,7 @@
     </td>
     <td width="25%" valign="top">
       <h3>DSA</h3>
-      <p>200+ problems across arrays, graphs, DP, trees, and more. Tracked live on Codolio — consistent, not cramming.</p>
+      <p>200+ problems across arrays, graphs, DP, trees and more. Tracked live on Codolio — consistent, not cramming.</p>
     </td>
     <td width="25%" valign="top">
       <h3>Systems Thinking</h3>
@@ -52,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-e0f2fe?style=flat-square&logoColor=0ea5e9&logo=react&labelColor=ffffff&color=e0f2fe" />
+  <img src="https://img.shields.io/badge/React.js-e0f2fe?style=flat-square&logo=react&logoColor=0ea5e9&labelColor=ffffff&color=e0f2fe" />
   <img src="https://img.shields.io/badge/Node.js-dcfce7?style=flat-square&logo=node.js&logoColor=16a34a&labelColor=ffffff&color=dcfce7" />
   <img src="https://img.shields.io/badge/LLM%20Integration-f3e8ff?style=flat-square&labelColor=ffffff&color=f3e8ff" />
   <img src="https://img.shields.io/badge/RAG%20Pipelines-fef3c7?style=flat-square&labelColor=ffffff&color=fef3c7" />
@@ -87,47 +107,11 @@
 
 ---
 
-## DSA Progress
-
-<p align="center">
-  <a href="https://codolio.com/profile/suraj9258">
-    <img src="https://codolio.com/api/og/suraj9258" width="94%" alt="Suraj's Codolio Stats" />
-  </a>
-</p>
-
-| Topic Cluster | Covered |
-|---|---|
-| Arrays · Strings · Hashing | Two Pointers · Sliding Window · Prefix Sum |
-| Trees · Graphs | BFS · DFS · Topological Sort · Union Find |
-| Dynamic Programming | 1D/2D DP · Knapsack · LCS · Matrix DP |
-| Linked Lists | Reversal · Cycle Detection · Merge · Floyd's |
-| Advanced | Backtracking · Bit Manipulation · Greedy · Segment Trees |
-
-<p align="center">
-  <a href="https://codolio.com/profile/suraj9258">
-    <img src="https://img.shields.io/badge/View%20Full%20DSA%20Profile%20%E2%86%97-6C47FF?style=for-the-badge&labelColor=6C47FF&color=6C47FF" alt="Codolio Profile" />
-  </a>
-</p>
-
----
-
-## Contribution Playground
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suraj502/suraj502/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suraj502/suraj502/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/suraj502/suraj502/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+## GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suraj502&show_icons=true&hide_border=true&bg_color=ffffff&title_color=6C47FF&icon_color=a78bfa&text_color=334155&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj502&hide_border=true&background=ffffff&ring=6C47FF&fire=f97316&currStreakLabel=6C47FF&sideLabels=6C47FF&dates=94a3b8" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=suraj502&hide_border=true&bg_color=ffffff&color=64748b&line=a78bfa&point=6C47FF&area=true&area_color=f3e8ff&title_color=6C47FF" alt="Activity graph" />
 </p>
 
 <p align="center">
@@ -168,7 +152,6 @@ DSA problem           ->  pattern recognition     ->  optimal solution
     <img src="https://img.shields.io/badge/CGPA-7.9%2F10-f3e8ff?style=flat-square&labelColor=ffffff&color=f3e8ff" />
     <img src="https://img.shields.io/badge/Open%20To-Internships-dcfce7?style=flat-square&labelColor=ffffff&color=dcfce7" />
     <img src="https://img.shields.io/badge/Focus-AI%20%C3%97%20Full--Stack-e0f2fe?style=flat-square&labelColor=ffffff&color=e0f2fe" />
-    <img src="https://img.shields.io/badge/Pronouns-He%2FHim-fef3c7?style=flat-square&labelColor=ffffff&color=fef3c7" />
   </p>
   <p>I'm drawn to the gap between what AI can do in a demo and what it actually does in production. Every project I build tries to close that gap a little more.</p>
 </details>
